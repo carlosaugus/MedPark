@@ -1,0 +1,144 @@
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 04-11-2014\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 04-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 04-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 04-11-2014\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 04-11-2014\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 04-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 04-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroCliente.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 04-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroFuncionario.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 04-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroVeiculo.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 04-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Home.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 04-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Login.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 04-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.SplashScreen.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 04-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 04-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 07-11-2014\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 07-11-2014\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 07-11-2014\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroCliente.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroFuncionario.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroVeiculo.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Home.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Login.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.SplashScreen.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\Aula 07-11-2014\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+C:\Users\Carlos\Desktop\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+C:\Users\Carlos\Desktop\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+C:\Users\Carlos\Desktop\Aula 07-11-2014\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+C:\Users\Carlos\Desktop\Aula 07-11-2014\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\Carlos\Desktop\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroCliente.resources
+C:\Users\Carlos\Desktop\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroFuncionario.resources
+C:\Users\Carlos\Desktop\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroVeiculo.resources
+C:\Users\Carlos\Desktop\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Home.resources
+C:\Users\Carlos\Desktop\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Login.resources
+C:\Users\Carlos\Desktop\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.SplashScreen.resources
+C:\Users\Carlos\Desktop\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+C:\Users\Carlos\Desktop\Aula 07-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 10-11-2014\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 10-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 10-11-2014\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 10-11-2014\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 10-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 10-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroCliente.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 10-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroFuncionario.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 10-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroVeiculo.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 10-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Home.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 10-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Login.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 10-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.SplashScreen.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 10-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 10-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+P:\TUDO AQUI\diversos\Carlos Augusto\Aula 10-11-2014\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+C:\Users\Carlos\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+C:\Users\Carlos\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+C:\Users\Carlos\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+P:\TUDO AQUI\diversos\Carlos Augusto\Projeto Estacionamento\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+P:\TUDO AQUI\diversos\Carlos Augusto\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+P:\TUDO AQUI\diversos\Carlos Augusto\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+P:\TUDO AQUI\diversos\Carlos Augusto\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+P:\TUDO AQUI\diversos\Carlos Augusto\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroCliente.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroFuncionario.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroVeiculo.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Home.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Login.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.RedefinirSenha.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.SplashScreen.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+P:\TUDO AQUI\diversos\Carlos Augusto\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+P:\TUDO AQUI\diversos\Carlos Augusto\Projeto Estacionamento\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+P:\TUDO AQUI\diversos\Carlos Augusto\Projeto Estacionamento\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroCliente.resources
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroFuncionario.resources
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroVeiculo.resources
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Home.resources
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Login.resources
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.RedefinirSenha.resources
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.SplashScreen.resources
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroCliente.resources
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroFuncionario.resources
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroVeiculo.resources
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Home.resources
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Login.resources
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.RedefinirSenha.resources
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.SplashScreen.resources
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.EntradaDeVeiculo.resources
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.ModeloCupom.resources
+C:\Users\erbeth.silva\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Comprovante.resources
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroCliente.resources
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroFuncionario.resources
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroVeiculo.resources
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Home.resources
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Login.resources
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.RedefinirSenha.resources
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.SplashScreen.resources
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroEmpresa.resources
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.EntradaVeiculos.resources
+C:\Users\Master\Desktop\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.SaidaVeiculos.resources
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroEmpresa.resources
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.BaixaVeiculos.resources
+C:\Users\Master\Desktop\Projeto Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.ModeloCupom.resources
+\\Client\E$\Projeto Carlos\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+\\Client\E$\Projeto Carlos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+\\Client\E$\Projeto Carlos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+\\Client\E$\Projeto Carlos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojResolveAssemblyReference.cache
+\\Client\E$\Projeto Carlos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroCliente.resources
+\\Client\E$\Projeto Carlos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroEmpresa.resources
+\\Client\E$\Projeto Carlos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroFuncionario.resources
+\\Client\E$\Projeto Carlos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.CadastroVeiculo.resources
+\\Client\E$\Projeto Carlos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.BaixaVeiculos.resources
+\\Client\E$\Projeto Carlos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Home.resources
+\\Client\E$\Projeto Carlos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.Login.resources
+\\Client\E$\Projeto Carlos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.ModeloCupom.resources
+\\Client\E$\Projeto Carlos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.RedefinirSenha.resources
+\\Client\E$\Projeto Carlos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Dialog.SplashScreen.resources
+\\Client\E$\Projeto Carlos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+\\Client\E$\Projeto Carlos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+Ferramentas Case
+* Violet UML Editor
+* Astah Community
+
+Diagramas UML
+* Classe
+* Caso de Uso
+* Atividade
+
+Model
+* Documentar as classes
+	* Não incluir
+	- Propriedades
+	- Construtores
